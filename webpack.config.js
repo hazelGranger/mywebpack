@@ -1,3 +1,4 @@
+var SwigWebpackPlugin = require('swig-webpack-plugin');
 module.exports = {
 	entry: './index.js',
 	output: {
@@ -17,5 +18,8 @@ module.exports = {
       			loader: 'style-loader!css-loader' 
       		}
 		]
-	}
+	},
+	plugins: [new SwigWebpackPlugin({
+		template: 'partial.html'
+	})]
 }

@@ -9259,7 +9259,7 @@ webpackJsonp([1],[
 	exports.i(__webpack_require__(6), "");
 
 	// module
-	exports.push([module.id, "div{\r\n\tcolor: yellow;\r\n\tbackground: green;\r\n}", ""]);
+	exports.push([module.id, "div{\n\tcolor: yellow;\n\tbackground: green;\n}", ""]);
 
 	// exports
 
@@ -9329,7 +9329,7 @@ webpackJsonp([1],[
 
 
 	// module
-	exports.push([module.id, "body{\r\n\tbackground-color: rgba(0,255,255,0.4);\r\n}", ""]);
+	exports.push([module.id, "body{\n\tbackground-color: rgba(0,255,255,0.4);\n}", ""]);
 
 	// exports
 

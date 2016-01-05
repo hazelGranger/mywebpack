@@ -85,7 +85,7 @@
 /******/ 	__webpack_require__.c = installedModules;
 
 /******/ 	// __webpack_public_path__
-/******/ 	__webpack_require__.p = "e:\\webpack\\mywebpack/outscripts/";
+/******/ 	__webpack_require__.p = "http://localhost:8080/outscripts/";
 
 /******/ 	// Load entry module and return exports
 /******/ 	return __webpack_require__(0);
